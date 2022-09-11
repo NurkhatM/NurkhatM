@@ -1,6 +1,6 @@
 ### My name is Nurkhat.  I'm a Software QA Engineer
 
-📫 How to reach me: <div id="badges">
+📫 Feel free to connect with me: <div id="badges">
   <a href="https://www.linkedin.com/in/nurkhatmussylmankulov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
