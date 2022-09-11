@@ -1,5 +1,5 @@
-### <img src="https://media2.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif?cid=ecf05e47b5mtqhomeegphndhy2xbus8wk70lcl6d0k7znfjm&amp;rid=giphy.gif&amp;ct=s" alt="Code Hello Sticker by Revature" style="width: 60px; height: 60px; left: 0px; top: 0px;"> 👋 I am Nurkhat
-A passionate QA Software Engineer
+### <img src="https://media2.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif?cid=ecf05e47b5mtqhomeegphndhy2xbus8wk70lcl6d0k7znfjm&amp;rid=giphy.gif&amp;ct=s" alt="Code Hello Sticker by Revature" style="width: 60px; height: 60px; left: 0px; top: 0px;"> Hi 👋 My name is Nurkhat. I'm a Software QA Engineer
+
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475tmguh28a72hupbi2uwok7kyfx2iam3s2qt0ntop&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 600px; height: 275px; left: 0px; top: 0px; opacity: 1;">
 
