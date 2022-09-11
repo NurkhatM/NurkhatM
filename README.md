@@ -21,8 +21,8 @@
               <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
             </path></svg>
             <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="5" height="5" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="4" y="2" width="1" height="5" rx="1"></rect>
+              <rect x="9" y="2" width="1" height="5" rx="1"></rect>
             </svg>
           </button>
           <a data-target="animated-image.openButton" aria-label="Open 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966 in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" target="_blank">
