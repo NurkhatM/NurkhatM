@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Nurkhat
-A passionate QA Software Engineer 
+A passionate QA Software Engineer <img src="https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47rqr3a4jhfggqi9dq85tz9h4w7nvv1rvl0jn46gjz&amp;rid=giphy.gif&amp;ct=g" alt="Happy Game GIF by Scaler" style="width: 10px; height: 20px; left: 0px; top: 0px; opacity: 0;">
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475tmguh28a72hupbi2uwok7kyfx2iam3s2qt0ntop&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 600px; height: 275px; left: 0px; top: 0px; opacity: 1;">
 
