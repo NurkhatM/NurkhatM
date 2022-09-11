@@ -4,7 +4,8 @@
   <a href="https://www.linkedin.com/in/nurkhatmussylmankulov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-🛠 Languages and Tools:
+
+  🛠 Languages and Tools:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" height="40" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" height="40" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" height="40" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" height="40" width="40"> <img src="https://github.com/devicons/devicon/raw/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" alt="Chrome" width="55" height="55" style="max-width: 100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="55" style="max-width: 100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="55" style="max-width: 100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55" style="max-width: 100%;">
 
