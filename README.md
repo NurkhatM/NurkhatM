@@ -2,10 +2,9 @@
 A passionate QA Software Emgineer
 
 
-
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475tmguh28a72hupbi2uwok7kyfx2iam3s2qt0ntop&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 1;">
 
-- 🌱 I’m currently learning Automation testing
+- 🌱 I’m currently learning Automation testing <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e4709dkkakaiuk55thkxoq1r7quwfhwkefmj2jaha6p&amp;rid=giphy.gif&amp;ct=g" alt="Code Coding GIF by EscuelaDevRock" style="width: 500px; height: 495.833px; left: 0px; top: 0px; opacity: 0;"> 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
