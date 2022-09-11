@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/nurkhatmussylmankulov/">
     <img src="https://img.shields.io/badge/NurkhatMussylmankulov-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
-    <img src="https://media4.giphy.com/media/27Y1W0GCKQtDq/giphy.gif?cid=ecf05e47lfbg5y356m8tnrqvd195an9ien0z2lfoqmfnbs5v&amp;rid=giphy.gif&amp;ct=g" alt="hard work GIF" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;">
+ <img src="https://media4.giphy.com/media/27Y1W0GCKQtDq/giphy.gif?cid=ecf05e47lfbg5y356m8tnrqvd195an9ien0z2lfoqmfnbs5v&amp;rid=giphy.gif&amp;ct=g" alt="hard work GIF" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;">
     
 
     🛠 Languages and Tools:
