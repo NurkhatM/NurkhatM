@@ -3,7 +3,8 @@
 📫 Feel free to connect with me: <div id="badges">
   <a href="https://www.linkedin.com/in/nurkhatmussylmankulov/">
     <img src="https://img.shields.io/badge/NurkhatMussylmankulov-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> <img 
+
+    
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475tmguh28a72hupbi2uwok7kyfx2iam3s2qt0ntop&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 600px; height: 275px; left: 0px; top: 0px; opacity: 1;">
 
   🛠 Languages and Tools:
