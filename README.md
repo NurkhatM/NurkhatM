@@ -2,6 +2,9 @@
 
 <img src="https://media1.giphy.com/media/toXKzaJP3WIgM/giphy.gif?cid=ecf05e475a2leb3t8gu1f744wnj40o2hy0o7k6uo1omokjng&amp;rid=giphy.gif&amp;ct=g" alt="Happy Jim Carrey GIF" style="width: 500px; height: 300px; left: 0px; top: 0px; opacity: 0;">
 
+👨🏻‍💻  About Me :
+I am a Software Quality Assurance (QA) Engineer with 3 + years of experience in QA. I have a Bachelor's Degree in Economics and 4+years experience in Finance with Banking Payment Systems. Possess comprehensive QA technical expertise, problem-solving skills, and attention to detail. Experienced in Testing for Web, Cloud Based, Client/Server, Native Desktop and Mobile Applications. Good Knowledge of Software Development Life Cycle, Agile/SCRUM and Waterfall as well as Git and GitHub tools. Fast learner and Extremely motivated to work.
+
  <div id="badges">
   <a href="https://www.linkedin.com/in/nurkhatmussylmankulov/">
     <img src="https://img.shields.io/badge/NurkhatMussylmankulov-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
