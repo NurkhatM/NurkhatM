@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I am Nurkhat
+A passionate QA Software Emgineer
 <!--
 **NurkhatM/NurkhatM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
