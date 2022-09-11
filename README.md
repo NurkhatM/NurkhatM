@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Nurkhat
 A passionate QA Software Emgineer
-<img src="https://media2.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47fl0xxxm1hytatrmydxd5fktn1zfow76zqj384u6r&amp;rid=giphy.gif&amp;ct=s" alt="Dicoding Indonesia code coding programmer dicoding Sticker" style="width: 500px; height: 500px; left: 0px; top: 0px;">
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475tmguh28a72hupbi2uwok7kyfx2iam3s2qt0ntop&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 1;">
 **NurkhatM/NurkhatM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
