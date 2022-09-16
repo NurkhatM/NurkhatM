@@ -1,6 +1,6 @@
 ### 
 
-<img src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Gurukul Student Corner - Gurukul For JEE &amp; NEET" data-noaft="1" style="width: 850px; height: 537px; margin: 0px;">
+<img src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Gurukul Student Corner - Gurukul For JEE &amp; NEET" data-noaft="1" style="width: 950px; height: 437px; margin: 0px;">
 
 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 5%; display: inline-block;" data-target="animated-image.originalImage">  About Me :
 I am a Software Quality Assurance (QA) Engineer with 3 + years of experience in QA. I have a Bachelor's Degree in Economics and 4+years experience in Finance with Banking Payment Systems. Possess comprehensive QA technical expertise, problem-solving skills, and attention to detail. Experienced in Testing for Web, Cloud Based, Client/Server, Native Desktop and Mobile Applications. Good Knowledge of Software Development Life Cycle, Agile/SCRUM and Waterfall as well as Git and GitHub tools. Fast learner and Extremely motivated to work.
