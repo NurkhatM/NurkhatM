@@ -3,9 +3,7 @@
 <img src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Gurukul Student Corner - Gurukul For JEE &amp; NEET" data-noaft="1" style="width: 950px; height: 537px; margin: 0px;">
 
 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 5%; display: inline-block;" data-target="animated-image.originalImage">
-Experienced Software QA Engineer with more than 5 years in Finance and Banking Payment Systems. Proficient in testing diverse applications (Web, Cloud, Client/Server, Mobile). 
-Skilled in SDLC, Agile/SCRUM, Waterfall, and Git/GitHub. 
-Quick learner, detail-oriented, and highly motivated to excel in challenging projects.
+Detail-oriented  Electronic Funds Transfer (EFT) Specialist with over 8 years of experience managing electronic payment systems, including ACH, wire transfers, and real-time payments. Proficient in payment processing, reconciliation, and regulatory compliance, with a strong focus on accuracy and risk mitigation. Adept at troubleshooting complex EFT issues, maintaining system efficiency, and delivering exceptional support to clients and stakeholders. Experienced in collaborating with cross-functional teams to optimize processes and ensure alignment with organizational goals. Known for excellent analytical skills, attention to detail, and a commitment to continuous improvement in financial operations.
 
  <div id="badges">
   <a href="https://www.linkedin.com/in/nurkhatmussylmankulov/">
